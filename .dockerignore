@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.coverage
+.env
+.venv
+venv
+dist
+build
+*.egg-info
+*.lock  # optional: exclude local platform-specific lockfiles if you keep other locks
+/.cache
+.ipynb_checkpoints
